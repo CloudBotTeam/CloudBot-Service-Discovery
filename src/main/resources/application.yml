@@ -1,0 +1,6 @@
+server:
+  port: 8100
+eureka:
+  client:
+    service-url:
+      defaultZone: http://0.0.0.0:${server.port}/eureka/
