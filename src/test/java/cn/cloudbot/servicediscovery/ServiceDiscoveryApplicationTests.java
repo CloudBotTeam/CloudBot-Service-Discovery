@@ -1,4 +1,4 @@
-package cn.maplewish.botmanager.servicediscovery;
+package cn.cloudbot.servicediscovery;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

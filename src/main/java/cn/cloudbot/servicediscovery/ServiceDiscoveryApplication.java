@@ -1,4 +1,4 @@
-package cn.maplewish.botmanager.servicediscovery;
+package cn.cloudbot.servicediscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
