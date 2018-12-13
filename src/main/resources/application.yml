@@ -4,3 +4,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://0.0.0.0:${server.port}/eureka/
+
+spring:
+  application:
+    name: service-discovery #指定服务名
